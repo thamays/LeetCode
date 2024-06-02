@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [00088](https://leetcode.com/problems/merge-sorted-array)                                                  | Merge Sorted Array                                                 | [Code](src%2F00088-MergeSortedArray.kt)                                        | 
 | [00344](https://leetcode.com/problems/reverse-string)                                                      | Reverse String                                                     | [Code](src%2F00344-ReverseString.kt)                                           | 
 | [03110](https://leetcode.com/problems/score-of-a-string)                                                   | Score of a String                                                  | [Code](src%2F03110-ScoreOfAString.kt)                                          | 
 | [00260](https://leetcode.com/problems/single-number-iii)                                                   | Single Number III                                                  | [Code](src%2F00260-SingleNumberIII.kt)                                         | 
