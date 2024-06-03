@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [02486](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence)                     | Append Characters to String to Make Subsequence                    | [Code](src%2F02486-AppendCharactersToStringToMakeSubsequence.kt)               | 
 | [00088](https://leetcode.com/problems/merge-sorted-array)                                                  | Merge Sorted Array                                                 | [Code](src%2F00088-MergeSortedArray.kt)                                        | 
 | [00344](https://leetcode.com/problems/reverse-string)                                                      | Reverse String                                                     | [Code](src%2F00344-ReverseString.kt)                                           | 
 | [03110](https://leetcode.com/problems/score-of-a-string)                                                   | Score of a String                                                  | [Code](src%2F03110-ScoreOfAString.kt)                                          | 
