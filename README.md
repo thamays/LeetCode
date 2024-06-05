@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [01002](https://leetcode.com/problems/find-common-characters)                                              | Find Common Characters                                             | [Code](src%2F01002-FindCommonCharacters.kt)                                    | 
 | [00409](https://leetcode.com/problems/longest-palindrome)                                                  | Longest Palindrome                                                 | [Code](src%2F00409-LongestPalindrome.kt)                                       | 
 | [02486](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence)                     | Append Characters to String to Make Subsequence                    | [Code](src%2F02486-AppendCharactersToStringToMakeSubsequence.kt)               | 
 | [00088](https://leetcode.com/problems/merge-sorted-array)                                                  | Merge Sorted Array                                                 | [Code](src%2F00088-MergeSortedArray.kt)                                        | 
