@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [00648](https://leetcode.com/problems/replace-words)                                                       | Replace Words                                                      | [Code](src%2F00648-ReplaceWords.kt)                                            | 
 | [00846](https://leetcode.com/problems/hand-of-straights)                                                   | Hand of Straights                                                  | [Code](src%2F00846-HandOfStraights.kt)                                         | 
 | [01002](https://leetcode.com/problems/find-common-characters)                                              | Find Common Characters                                             | [Code](src%2F01002-FindCommonCharacters.kt)                                    | 
 | [00409](https://leetcode.com/problems/longest-palindrome)                                                  | Longest Palindrome                                                 | [Code](src%2F00409-LongestPalindrome.kt)                                       | 
