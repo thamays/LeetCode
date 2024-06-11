@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [01122](https://leetcode.com/problems/relative-sort-array)                                                 | Relative Sort Array                                                | [Code](src%2F01122-RelativeSortArray.kt)                                       | 
 | [01051](https://leetcode.com/problems/height-checker)                                                      | Height Checker                                                     | [Code](src%2F01051-HeightChecker.kt)                                           | 
 | [00974](https://leetcode.com/problems/subarray-sums-divisible-by-k)                                        | Subarray Sums Divisible by K                                       | [Code](src%2F00974-SubarraySumsDivisibleByK.kt)                                | 
 | [00523](https://leetcode.com/problems/continuous-subarray-sum)                                             | Continuous Subarray Sum                                            | [Code](src%2F00523-ContinuousSubarraySum.kt)                                   | 
