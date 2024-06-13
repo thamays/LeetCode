@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [02037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)                            | Minimum Number of Moves to Seat Everyone                           | [Code](src%2F02037-MinimumNumberOfMovesToSeatEveryone.kt)                      | 
 | [00075](https://leetcode.com/problems/sort-colors)                                                         | Sort Colors                                                        | [Code](src%2F00075-SortColors.kt)                                              | 
 | [01122](https://leetcode.com/problems/relative-sort-array)                                                 | Relative Sort Array                                                | [Code](src%2F01122-RelativeSortArray.kt)                                       | 
 | [01051](https://leetcode.com/problems/height-checker)                                                      | Height Checker                                                     | [Code](src%2F01051-HeightChecker.kt)                                           | 
