@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [00502](https://leetcode.com/problems/ipo)                                                                 | IPO                                                                | [Code](src%2F00502-IPO.kt)                                                     | 
 | [00945](https://leetcode.com/problems/minimum-increment-to-make-array-unique)                              | Minimum Increment to Make Array Unique                             | [Code](src%2F00945-MinimumIncrementToMakeArrayUnique.kt)                       | 
 | [02037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)                            | Minimum Number of Moves to Seat Everyone                           | [Code](src%2F02037-MinimumNumberOfMovesToSeatEveryone.kt)                      | 
 | [00075](https://leetcode.com/problems/sort-colors)                                                         | Sort Colors                                                        | [Code](src%2F00075-SortColors.kt)                                              | 
