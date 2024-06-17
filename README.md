@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [00633](https://leetcode.com/problems/sum-of-square-numbers)                                               | Sum of Square Numbers                                              | [Code](src%2F00633-SumOfSquareNumbers.kt)                                      | 
 | [00330](https://leetcode.com/problems/patching-array)                                                      | Patching Array                                                     | [Code](src%2F00330-PatchingArray.kt)                                           | 
 | [00502](https://leetcode.com/problems/ipo)                                                                 | IPO                                                                | [Code](src%2F00502-IPO.kt)                                                     | 
 | [00945](https://leetcode.com/problems/minimum-increment-to-make-array-unique)                              | Minimum Increment to Make Array Unique                             | [Code](src%2F00945-MinimumIncrementToMakeArrayUnique.kt)                       | 
