@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [00100](https://leetcode.com/problems/same-tree)                                                           | Same Tree                                                          | [Code](src%2F00100-SameTree%20.kt)                                             | 
 | [00367](https://leetcode.com/problems/valid-perfect-square)                                                | Valid Perfect Square                                               | [Code](src%2F00367-ValidPerfectSquare.kt)                                      | 
 | [00633](https://leetcode.com/problems/sum-of-square-numbers)                                               | Sum of Square Numbers                                              | [Code](src%2F00633-SumOfSquareNumbers.kt)                                      | 
 | [00330](https://leetcode.com/problems/patching-array)                                                      | Patching Array                                                     | [Code](src%2F00330-PatchingArray.kt)                                           | 
