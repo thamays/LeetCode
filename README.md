@@ -2,6 +2,7 @@
 
 | #                                                                                                          | Question                                                           | Code                                                                           |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [01482](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)                           | Minimum Number of Days to Make m Bouquets                          | [Code](src%2F01482-MinimumNumberOfDaysToMakeMBouquets.kt)                      | 
 | [00826](https://leetcode.com/problems/most-profit-assigning-work)                                          | Most Profit Assigning Work                                         | [Code](src%2F00826-MostProfitAssigningWork.kt)                                 | 
 | [00100](https://leetcode.com/problems/same-tree)                                                           | Same Tree                                                          | [Code](src%2F00100-SameTree%20.kt)                                             | 
 | [00367](https://leetcode.com/problems/valid-perfect-square)                                                | Valid Perfect Square                                               | [Code](src%2F00367-ValidPerfectSquare.kt)                                      | 
