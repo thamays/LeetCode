@@ -1,7 +1,14 @@
 # LeetCode Challenges
 
+<img height="30" src="src/badges/LeetCode_Logo.png"/>
+
+### 🚀 ➟ 2️⃣ 0️⃣ 2️⃣ 4️⃣ - 0️⃣ 6️⃣
+
+<img height="150" width="150" src="src/badges/2024-06.gif"/>
+
 | #                                                                                                                 | Question                                                                   | Code                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [01579](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)                 | Remove Max Number of Edges to Keep Graph Fully Traversable                 | [Code](src%2F01579-RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.kt)               | 
 | [02192](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)                        | All Ancestors of a Node in a Directed Acyclic Graph                        | [Code](src%2F02192-AllAncestorsOfANodeInADirectedAcyclicGraph.kt)                      | 
 | [02285](https://leetcode.com/problems/maximum-total-importance-of-roads)                                          | Maximum Total Importance of Roads                                          | [Code](src%2F02285-MaximumTotalImportanceOfRoads.kt)                                   | 
 | [01791](https://leetcode.com/problems/find-center-of-star-graph)                                                  | Find Center of Star Graph                                                  | [Code](src%2F01791-FindCenterOfStarGraph.kt)                                           | 
