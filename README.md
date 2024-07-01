@@ -2,6 +2,12 @@
 
 <img height="30" src="src/badges/LeetCode_Logo.png"/>
 
+### ⏳ ➟ 2️⃣ 0️⃣ 2️⃣ 4️⃣ - 0️⃣ 7️⃣
+
+| #                                                             | Question               | Code                                        |
+|---------------------------------------------------------------|------------------------|---------------------------------------------|
+| [01550](https://leetcode.com/problems/three-consecutive-odds) | Three Consecutive Odds | [Code](src%2F01550-ThreeConsecutiveOdds.kt) | 
+
 ### 🚀 ➟ 2️⃣ 0️⃣ 2️⃣ 4️⃣ - 0️⃣ 6️⃣
 
 <img height="150" width="150" src="src/badges/2024-06.gif"/>
